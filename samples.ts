@@ -11,3 +11,7 @@ function notWhatever() {
   let abc: number = 123 // should be a const
   return abc
 }
+
+function tooManyVarsSameLine() {
+  var a, b, c, d = 5 
+}
