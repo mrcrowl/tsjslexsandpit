@@ -15,3 +15,4 @@ function notWhatever() {
 function tooManyVarsSameLine() {
   var a, b, c, d = 5 
 }
+
